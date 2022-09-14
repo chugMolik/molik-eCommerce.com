@@ -1,0 +1,364 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.firstpagetopmost h4 , h5{
+    color: white;
+     
+}
+.firstpagetopmost h4{
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.firstpagetopmost h3{
+    color: white;
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+/* .firstpagetopmost h4{
+    padding-top: 5px;
+/* } */
+
+.firstpagetopmost{
+    background-color: rgb(255, 0, 0);
+    height: 35px;
+    width: 100%;
+    /* margin-bottom: 15px; */
+}
+
+ 
+.firstpagemenu{
+    position: relative;
+       padding-top: 25px;
+        height: 70px;
+        width: 100%;
+        background-color: white;
+        display: flex;
+        justify-content: space-between;
+        
+}
+.firstpagemenu ul{
+    float: right;
+        list-style: none;
+        color:black;
+        display: flex;
+        padding: 10px;
+        margin-right: 100px;
+        padding-top: 10px;
+
+}
+.firstpagemenu ul li{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    margin-left: 70px;
+    color: black;
+}
+.firstpagemenu h2{
+    font-size: 35px;
+    color: green;
+    padding-bottom: 20px;
+    margin-left: 55px;
+
+}
+/* .left{
+    float: left;
+    color: green;
+    margin-left: 50px;
+    text-size-adjust: 50px;
+} */
+.firstpagemiddle{
+    width: 100%;
+    height: 600px;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+}
+.para{
+    float: left;
+    margin-left: 200px;
+    margin-top: 200px;
+
+}
+.para h2 , span{
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+}
+.image{
+    float: right;
+    width:39%;
+}
+.image img{
+    width: 100%;
+    height: 600px;
+}
+.p1{
+    color: black;
+    font-size: 25px;
+}
+.para{
+    width:40% ;
+    height:  450px;
+}
+.para .p2{
+    font-weight: lighter;
+}
+.secondpagefirst{
+    font-size: 50px;
+    font-weight: lighter;
+    margin-left: 500px;
+}
+.gibberish{
+    margin-left: 500px;
+}
+.p6{
+    margin-left: 120px;
+}
+.itemtoshop{
+    width: 100%;
+    height: 500px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+.watches{
+    width: 33%;
+    height: 500px;
+    background-color: aqua;
+}
+.shoes
+{
+    width: 33%;
+    height: 500px;
+    background-color: aqua;
+}
+.accessories
+{
+    width: 33%;
+    height: 500px;
+    background-color: aqua;
+}
+
+ .watches img{ 
+    width: 300px;
+    height: 260px;
+    border-radius: 600px;
+    justify-content: center;
+    margin-top: 70px;
+    margin-left: 80px;
+    float: left;
+    
+} 
+.watches p{
+    margin-left: 203px;
+    margin-top: 20px;
+}
+.watches button{
+    margin-top: 25px;
+    margin-left: 180px;
+    color: green;
+    width: 105px;
+    height: 40px;
+    border-radius: 4px;
+    margin-bottom: 500px;
+    border: none;
+}
+.shoes img{ 
+    width: 300px;
+    height: 260px;
+    border-radius: 600px;
+    justify-content: center;
+    margin-top: 70px;
+    margin-left: 80px;
+
+    
+} 
+.shoes p{
+    margin-left: 203px;
+    margin-top: 20px;
+}
+.shoes button{
+    margin-top: 25px;
+    margin-left: 180px;
+    color: green;
+    width: 105px;
+    height: 40px;
+    border-radius: 4px;
+    margin-bottom: 500px;
+    border: none;
+}
+.accessories img{ 
+    width: 300px;
+    height: 260px;
+    border-radius: 600px;
+    justify-content: center;
+    margin-top: 70px;
+    margin-left: 80px;
+
+    
+} 
+.accessories p{
+    margin-left: 203px;
+    margin-top: 20px;
+}
+.accessories button{
+    margin-top: 25px;
+    margin-left: 180px;
+    color: green;
+    width: 105px;
+    height: 40px;
+    border-radius: 4px;
+    margin-bottom: 500px;
+    border: none;
+}
+/*  third section start */
+.thirdpage{
+    margin-top: 5%;
+    background-color: azure;
+    width: 100%;
+    height: 750px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.CloudNikeShoes{
+    margin-left: 3%;
+    margin-right:3%;
+    width: 28%;
+    height: 500px;
+    background-color: white;
+    /* display: flex;
+    justify-content: space-between; */
+}
+.summeraddidesshoes{
+    margin-right: 5%;
+    width: 28%;
+    height: 500px;
+    background-color: white;
+   
+    /* float: right; */
+    margin-bottom: 1100px;
+}
+.gymweight{
+    margin-left: 5%;
+    width: 28%;
+    height: 500px;
+    background-color: white;
+    /* display: flex;
+    justify-content: space-between; */
+
+}
+.gymweight img{
+    height:300px;
+    width: 426px;
+}
+.cloudnikeshoes img{
+    height: 300px;
+    width: 426px;
+}
+.summeraddidesshoes img{
+    height:300px;
+    width: 426px;
+}
+.summeraddidesshoes p{
+    color: black;
+    margin-left: 20px;
+}
+.summeraddidesshoes h1{
+    color: black;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+.cloudnikeshoes p{
+    color: black;
+    margin-left: 20px;
+}
+.cloudnikeshoes h1{
+    color: black;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+.gymweight h1{
+    color: black;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+.gymweight p{
+    color: black;
+    margin-left: 20px;
+   
+}
+.secondpagefirst{
+    background-color: white;
+    margin-top: 65px;
+}
+.gibberish{
+    background-color: white;
+    margin-top: 10px;
+}
+.itemtoshop{
+    background-color: white;
+}
+.watches{
+    background-color: white;
+}
+.shoes{
+    background-color: white
+}
+.accessories{
+    background-color: white;
+}
+.watches p{
+    margin-top: 360px;
+    
+}
+footer{
+    height:220px;
+    background-color:rgb(2, 38, 38);
+}
+.fut{
+    padding-left: 38px;
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.our li{
+    
+    color: white;
+    font-weight: bold;
+    margin-bottom: 15px;
+    list-style: none;
+}
+.dent li{
+     
+    color: white;
+    font-weight: bold;
+    margin-bottom: 15px;
+    list-style: none;
+}
+.email li{
+    
+    color: white;
+    font-weight: bold;
+    margin-bottom: 15px;
+    list-style: none;
+}
+.fa-envelope{
+    font-size: 20px;
+    position: absolute;
+    right: 690px;
+}
+.add li{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 15px;
+    list-style: none;
+}
+.firstpagemenu ul li a:hover{
+    color: lightgreen;
+}
